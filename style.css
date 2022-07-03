@@ -39,3 +39,30 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.section-2 {
+    display: flex;
+    margin-top: 100px;
+}
+
+.mid-width img {
+    width: 60%;
+    margin-left: 100px;
+}
+
+.mid-width {
+    width: 50%;
+}
+
+.res-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.dream {
+    font-size: 40pxs;
+}
